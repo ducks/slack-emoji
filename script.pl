@@ -46,8 +46,18 @@ my %emoji = (
   'disappointed' => "\N{DISAPPOINTED FACE}",
   'worried' => "\N{U+1F61F}",
   'angry' => "\N{ANGRY FACE}",
+  'rage' => "\N{POUTING FACE}",
+  'cry' => "\N{CRYING FACE}",
+  'triumph' => "\N{FACE WITH LOOK OF TRIUMPH}",
+  'persevere' => "\N{PERSEVERING FACE}",
+  'disappointed_relieved' => "\N{DISAPPOINTED BUT RELIEVED FACE}",
+  'frowning' => "\N{U+1F626}",
+  'anguished' => "\N{U+1F627}",
+  'fearful' => "\N{FEARFUL FACE}",
+  'weary' => "\N{U+1F629}",
 
   '+1'    => "\N{THUMBS UP SIGN}",
+
   '-1'    => "\N{THUMBS DOWN SIGN}",
 
   'ok'    => "\N{SQUARED OK}",
